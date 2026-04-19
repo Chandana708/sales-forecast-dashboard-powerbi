@@ -48,9 +48,9 @@ It helps analyze past performance and predict future sales trends.
 ---
 
 ## Files
-- sales_forecast_dashboard.pbix
-- sales_forecast_dashboard.pdf
-- SalesDB.csv
+- Sales_Dashboard.pbix
+- Sales_Dashboard.pdf
+- SuperStore_Sales_Dataset.csv
 
 ---
 
